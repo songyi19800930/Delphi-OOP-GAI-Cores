@@ -1,0 +1,1 @@
+# Delphi-OOP-GAI-Cores
